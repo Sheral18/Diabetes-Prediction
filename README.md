@@ -12,4 +12,4 @@ DiabetesPedigreeFunction,
 blood pressure,
 age)
 
-using svm classification and train and tested the given dataset
+using svm classification  trained and tested the given dataset
